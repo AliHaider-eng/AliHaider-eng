@@ -10,7 +10,6 @@ Email Me 👉 ✉️ **syedbadshah25351@gmail.com** For Collaboration/Project or
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
