@@ -23,7 +23,7 @@ AI/ML projects, full-stack applications, and meaningful software projects.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alee_haiderr110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-ali-haider) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedbadshah25351@gmail.com) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/gDReRwb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alee_haiderr110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-ali-haider) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=syedbadshah25351@gmail.com) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/alidatawizard)
 
 
 <div align="center">
