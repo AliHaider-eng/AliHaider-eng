@@ -1,15 +1,25 @@
-# 💫 Hi 👋, I'm Ali Haider
-**Software Engineering Student | AI/ML Developer | Full Stack Developer | Building Real-World Solutions**
+# Hi, I'm Ali Haider
 
-Email Me 👉 ✉️ **syedbadshah25351@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**Software Engineering Student | AI/ML Developer | Full-Stack Developer**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+I’m a Software Engineering student focused on AI/ML and full-stack development. I enjoy building practical projects, learning new technologies, and improving my software engineering skills through hands-on development.
+
+### Currently Working On
+
+AI-powered applications and full-stack web projects.
+
+### Currently Learning
+
+Machine Learning, LLMs, RAG, and modern full-stack development.
+
+### Open to Collaborate On
+
+AI/ML projects, full-stack applications, and meaningful software projects.
+
+### Contact
+
+**Email:** [syedbadshah25351@gmail.com](mailto:syedbadshah25351@gmail.com)
+
 
 
 ## 🌐 Socials:
